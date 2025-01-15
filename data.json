@@ -540,5 +540,62 @@
       "add": "Confirm",
       "delete": "Delete"
     }
-  ]
+  ],
+
+  "todos": [
+  {
+    "id": 1,
+    "completed": false,
+    "title": "Buy groceries",
+    "icon": "fa-star"
+  },
+  {
+    "id": 2,
+    "completed": false,
+    "title": "Finish project report",
+    "icon": "fa-star"
+  },
+  {
+    "id": 3,
+    "completed": false,
+    "title": "Call on bank",
+    "icon": "fa-star"
+  },
+  {
+    "id": 4,
+    "completed": false,
+    "title": "Schedule dentist appointment",
+    "icon": "fa-star"
+  },
+  {
+    "id": 5,
+    "completed": false,
+    "title": "Plan weekend trip",
+    "icon": "fa-star"
+  },
+  {
+    "id": 6,
+    "completed": false,
+    "title": "Read a book",
+    "icon": "fa-star"
+  },
+  {
+    "id": 7,
+    "completed": false,
+    "title": "Clean the house",
+    "icon": "fa-star"
+  },
+  {
+    "id": 8,
+    "completed": false,
+    "title": "Prepare presentation",
+    "icon": "fa-star"
+  },
+  {
+    "id": 9,
+    "completed": false,
+    "title": "Update blog",
+    "icon": "fa-star"
+  }
+]
 }
