@@ -612,12 +612,12 @@
 "weathers":[
   {
   "condition":"Clear sky",
-  "location":"Weather in London",
+  "location":"London",
   "temperature":"15"
 },
 {
   "condition":"Dark sky",
-  "location":"Weather in Nigeria",
+  "location":"Nigeria",
   "temperature":"25"
 }
 ]
